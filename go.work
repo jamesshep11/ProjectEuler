@@ -5,4 +5,5 @@ use (
 	./LargestPalindromeProduct
 	./LargestPrimeFact
 	./MultipleOf3Or5
+	./SmallestMultiple
 )
