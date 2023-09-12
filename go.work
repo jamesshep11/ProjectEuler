@@ -8,5 +8,6 @@ use (
 	./LargestProductInASeries
 	./MultipleOf3Or5
 	./SmallestMultiple
+	./SpecialPythagTrip
 	./SumSquareDiff
 )
