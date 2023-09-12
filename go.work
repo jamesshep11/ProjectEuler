@@ -6,4 +6,5 @@ use (
 	./LargestPrimeFact
 	./MultipleOf3Or5
 	./SmallestMultiple
+	./SumSquareDiff
 )
