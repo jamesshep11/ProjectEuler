@@ -5,6 +5,7 @@ use (
 	./EvenFibonacci
 	./LargestPalindromeProduct
 	./LargestPrimeFact
+	./LargestProductInASeries
 	./MultipleOf3Or5
 	./SmallestMultiple
 	./SumSquareDiff
