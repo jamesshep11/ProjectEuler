@@ -1,3 +1,6 @@
 go 1.20
 
-use ./MultipleOf3Or5
+use (
+	./EvenFibonacci
+	./MultipleOf3Or5
+)
