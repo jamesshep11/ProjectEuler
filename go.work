@@ -3,6 +3,7 @@ go 1.20
 use (
 	./10001stPrime
 	./EvenFibonacci
+	./HighlyDivTriNum
 	./LargestPalindromeProduct
 	./LargestPrimeFact
 	./LargestProductInASeries
